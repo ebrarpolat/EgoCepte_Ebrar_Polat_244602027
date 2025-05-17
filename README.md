@@ -1,6 +1,5 @@
 # ebrar_polat_244602027
-
-A new Flutter project.
+Ego Cepte Uygulamasının Ana Sayfa Tasarımı
 
 ## Getting Started
 
